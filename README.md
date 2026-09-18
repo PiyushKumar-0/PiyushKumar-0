@@ -210,6 +210,7 @@ Web Apps • AI Tools • Real-World Solutions
 
 </div>
 
+
 🏆 Milestones & Highlights
 
 🎓 BCA 3rd Year — Dr. Virendra Swaroop Institute of Computer Studies
@@ -272,6 +273,9 @@ I'm always interested in:
   </a>
   <a href="mailto:piyushkumar150406@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="tel:+919336059935">
+    <img src="https://img.shields.io/badge/Phone-9336059935-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
   </a>
   <a href="https://github.com/PiyushKumar-0">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
