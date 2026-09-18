@@ -23,7 +23,7 @@
 
 👨‍💻 About Me
 
-🎓 BCA 2nd Year Student at Dr. Virendra Swaroop Institute of Computer Studies
+🎓 BCA 3rd Year Student at Dr. Virendra Swaroop Institute of Computer Studies
 
 I'm a curious and growth-focused developer interested in software development, web development, AI/ML, and problem solving. I enjoy turning ideas into practical projects and continuously improving my technical skills through projects, internships, certifications, competitions, and coding practice.
 
